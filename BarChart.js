@@ -25,3 +25,11 @@ var data = [
   {id: "Charleston",  topic: "Terror", conversation: 0.27},
   {id: "Charleston",  topic: "Mental", conversation: 0.10}
 ];
+var visualization = d3plus.viz()
+  .container("#svg_BarChart")
+  .data(data)
+  .type("bar")
+  .id("id")
+  .x("topic")
+  .y("conversation")
+  .draw();
