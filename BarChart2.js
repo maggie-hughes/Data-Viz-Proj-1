@@ -1,4 +1,4 @@
-var svg = d3.select("body").select("#svg_BarChart2");
+var svg = d3.select("body").select("#svg_BarChart");
 var data = [
   {id: "Las Vegas", topic: "Politics", conversation: 0.69},
   {id: "Las Vegas",  topic: "Weapon", conversation: 0.69},
@@ -26,7 +26,7 @@ var data = [
   {id: "Charleston",  topic: "Mental", conversation: 0.10}
 ];
 var visualization = d3plus.viz()
-  .container("#svg_BarChart2")
+  .container("#svg_BarChart")
   .data(data)
   .type("bar")
   .id("id")
