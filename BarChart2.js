@@ -32,7 +32,5 @@ var visualization = d3plus.viz()
   .stacked(true)
   .id("id")
   .x("topic")
-  .y({"stacked" : true,
-    "conversation"
-     })
+  .y("conversation")
   .draw();
