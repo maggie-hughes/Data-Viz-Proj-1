@@ -1,4 +1,4 @@
-var svg = d3.select("body").select("#svg_BarChart");
+var svg = d3.select("body").select("#svg_BarChart2");
 var data = [
   {id: "Las Vegas", topic: "Politics", conversation: 0.69},
   {id: "Las Vegas",  topic: "Weapon", conversation: 0.69},
