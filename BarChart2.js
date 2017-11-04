@@ -29,8 +29,8 @@ var visualization = d3plus.viz()
   .container("#svg_BarChart2")
   .data(data)
   .type("bar")
+  .stacked(true)
   .id("id")
   .x("topic")
   .y("conversation")
   .draw();
-
