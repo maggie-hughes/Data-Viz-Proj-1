@@ -1,4 +1,4 @@
-var svg = d3.select("body").select("#svg_BarChart3");
+var svg = d3.select("body").select("#svg_Source&Shares");
 var data = [
       
   
@@ -152,7 +152,7 @@ var data = [
   
   ];
 var visualization = d3plus.viz()
-  .container("#svg_BarChart3")
+  .container("#svg_Source&Shares")
   .data(data)
   .type("bar")
   .id("source")
