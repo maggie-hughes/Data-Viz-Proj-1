@@ -78,7 +78,7 @@ var data = [
   {id: "Blue", date: "June 19", shares: 12},
   {id: "Purple", date: "June 19", shares: 10},
   {id: "Blue", date: "June 19", shares: 9},
-  {id: "Pruple", date: "June 19", shares: 9}
+  {id: "Purple", date: "June 19", shares: 9}
   
   
 ];
