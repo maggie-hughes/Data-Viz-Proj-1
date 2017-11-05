@@ -4,6 +4,7 @@ var data = [
   {id: "Clashdaily", date: "June 12", shares: 119},
   {id: "Youtube", date: "June 12", shares: 86},
   {id: "PoliticusUSA", date: "June 12", shares: 76},
+  {id: "Twitter", date: "June 12", shares: 69},
   {id: "Time", date: "June 12", shares: 68},
   {id: "OccupyDemocrats", date: "June 12", shares: 66},
   {id: "USAToday", date: "June 12", shares: 63},
