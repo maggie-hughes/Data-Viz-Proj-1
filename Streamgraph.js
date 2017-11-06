@@ -1,4 +1,4 @@
-<div class="chart"></div>
+
         <script>
 
               chart("formatted_ideology_data.csv", "orange");
