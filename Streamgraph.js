@@ -1,8 +1,4 @@
 
-        <script>
-
-              chart("formatted_ideology_data.csv", "orange");
-
               var datearray = [];
               var colorrange = [];
 
@@ -180,4 +176,3 @@
                        vertical.style("left", mousex + "px")});
               });
               }
-        </script>
