@@ -29,7 +29,7 @@ var data = [
       {ideology:	"purple", date: "June 14, 2016", shares:	16},
       {ideology:	"purple", date: "June 14, 2016", shares:	16},
       {ideology:	"red", date: "June 14, 2016", shares:	13},
-      {ideology:	"grey", date: "June 15, 2016", shares:	10},
+      {ideology:	"grey", date: "June 15, 2016", shares:	103},
       {ideology:	"blue", date: "June 15, 2016", shares:	98},
       {ideology:	"blue", date: "June 15, 2016", shares:	75},
       {ideology:	"blue", date: "June 15, 2016", shares:	75},
